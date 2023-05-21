@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "year": "08/2020 - Current",
+        "place": "SVNIT Surat",
+        "role": "Student",
+        "description": "Pursuing a B. Tech Degree at one of the reputed institutes of India, I try to be the best version of myself!"
+    },
+    {
+        "id": 2,
+        "year": "02/2023 - 04/2023",
+        "place": "METABRIX (Startup)",
+        "role": "Web Developer",
+        "description": "Developed a real estate website using React for code reusability and better user experience, and also designed the brand logo for the startup using Canva."
+    },
+    {
+        "id": 3,
+        "year": "12/2021 - 12/2022",
+        "place": "SPARSH SVNIT",
+        "role": "Web Developer",
+        "description": "Created an event registration form using HTML, CSS, JavaScript, and PHP."
+    },
+    {
+        "id": 4,
+        "year": "06/2014 - 03/2020",
+        "place": "Atul Vidyamandir",
+        "role": "Student",
+        "description": "I spent my school days here, where I explored various domains such as sports, drama, dancing, and many more."
+    }
+]

@@ -1,0 +1,41 @@
+.home-bg {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+.home-overlay {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.user-photo {
+    height: 200px;
+    width: 200px;
+}
+
+.dev-name {
+    font-size: 3rem;
+    letter-spacing: 3px;
+    font-weight: 700;
+}
+
+/* Media Queries */
+@media screen and (max-width: 768px) {
+
+    /* main body  */
+    .home-overlay {
+        padding: 20vh 0vw;
+    }
+
+    .dev-name {
+        font-size: 4vh;
+    }
+
+    .resume-div {
+        margin-top: 2vh;
+    }
+}

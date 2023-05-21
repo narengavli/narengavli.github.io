@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Reading",
+        "image": "./img/interest/01.png"
+    },
+    {
+        "id": 2,
+        "name": "Designing",
+        "image": "./img/interest/02.png"
+    },
+    {
+        "id": 3,
+        "name": "Programming",
+        "image": "./img/interest/03.png"
+    },
+    {
+        "id": 4,
+        "name": "Machine Learning",
+        "image": "./img/interest/04.png"
+    },
+    {
+        "id": 5,
+        "name": "Blockchain",
+        "image": "./img/interest/05.png"
+    },
+    {
+        "id": 6,
+        "name": "Chess",
+        "image": "./img/interest/06.png"
+    }
+]
