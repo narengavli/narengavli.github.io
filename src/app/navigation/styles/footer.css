@@ -1,0 +1,26 @@
+.footer-line {
+    border: 1px solid whitesmoke;
+}
+
+.footer-icon-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+
+    fill: white;
+    border: 2px solid white;
+    margin: 5px 5px;
+}
+
+.footer-icon {
+    fill: inherit;
+    height: 30px;
+}
+
+.footer-icon-box:hover {
+    fill: black;
+    background-color: white;
+    border-color: black;
+}

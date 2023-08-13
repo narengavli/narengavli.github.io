@@ -1,0 +1,23 @@
+.main-page {
+    width: 100vw;
+}
+
+.txt-indent {
+    text-indent: 36px;
+    text-align: justify;
+}
+
+/* hobby css */
+.animation-box>* {
+    animation: travel-path 5s linear infinite;
+}
+
+@keyframes travel-path {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}

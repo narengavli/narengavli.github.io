@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Reuseit",
+        "type": "web_dev",
+        "description": "Created a platform for the sale and purchase of reusable items on our campus.",
+        "techstack": [
+            "react",
+            "node",
+            "express"
+        ],
+        "image": "./img/project/reuseit.svg",
+        "code": "https://github.com/narengavli/reuseit",
+        "live": "https://reuseit.vercel.app"
+    },
+    {
+        "id": 2,
+        "name": "Login System",
+        "type": "web_dev",
+        "description": "Created to securely validate credentials and grant authorised access to protected resources.",
+        "techstack": [
+            "html",
+            "css",
+            "javascript",
+            "mysql",
+            "php"
+        ],
+        "image": "./img/project/loginsystem.svg",
+        "code": "https://github.com/narengavli/loginsystem",
+        "live": "https://narengavli.github.io/loginsystem"
+    },
+    {
+        "id": 3,
+        "name": "Insightify",
+        "type": "web_dev",
+        "description": "Developed an online application that assists you in formatting text and paragraphs.",
+        "techstack": [
+            "html",
+            "css",
+            "javascript"
+        ],
+        "image": "./img/project/insightify.svg",
+        "code": "https://github.com/narengavli/insightify",
+        "live": "https://narengavli.github.io/insightify"
+    },
+    {
+        "id": 4,
+        "name": "To Do List",
+        "type": "web_dev",
+        "description": "To-do lists can help you get, and stay, on top of important projects and piles of tasks or decisions.",
+        "techstack": [
+            "html",
+            "css",
+            "javascript"
+        ],
+        "image": "./img/project/todo.svg",
+        "code": "https://github.com/narengavli/todo",
+        "live": "https://narengavli.github.io/todo"
+    },
+    {
+        "id": 5,
+        "name": "PG Life",
+        "type": "web_dev",
+        "description": "PG Life helps you find online rooms all across India.",
+        "techstack": [
+            "html",
+            "css",
+            "javascript",
+            "bootstrap"
+        ],
+        "image": "./img/project/pglife.svg",
+        "code": "https://github.com/narengavli/PG-Life",
+        "live": "https://narengavli.github.io/PG-Life"
+    },
+    {
+        "id": 6,
+        "name": "Calculator",
+        "type": "gui_app",
+        "description": "GUI application for performing mathematical calculations on a computer device.",
+        "techstack": [
+            "python",
+            "tkinter"
+        ],
+        "image": "./img/project/calculator.svg",
+        "code": "https://github.com/narengavli/Calculator",
+        "live": "https://github.com/narengavli/Calculator"
+    },
+    {
+        "id": 7,
+        "name": "Guess Number",
+        "type": "gui_app",
+        "description": "Guess number game is small game. It can generate random numbers between 0 to 30 and we can guess this number.",
+        "techstack": [
+            "python",
+            "tkinter"
+        ],
+        "image": "./img/project/guessnumber.svg",
+        "code": "https://github.com/narengavli/Guess-Number",
+        "live": "https://github.com/narengavli/Guess-Number"
+    }
+]

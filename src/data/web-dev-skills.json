@@ -1,0 +1,27 @@
+[
+    {
+        "id": 21,
+        "name": "HTML, CSS, Javascript",
+        "percentage": "75%"
+    },
+    {
+        "id": 22,
+        "name": "Bootstrap, Material UI",
+        "percentage": "60%"
+    },
+    {
+        "id": 23,
+        "name": "React JS, Next JS",
+        "percentage": "70%"
+    },
+    {
+        "id": 24,
+        "name": "MySQL, MongoDB",
+        "percentage": "65%"
+    },
+    {
+        "id": 25,
+        "name": "Figma",
+        "percentage": "40%"
+    }
+]

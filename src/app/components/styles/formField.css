@@ -1,0 +1,23 @@
+.contact-section {
+    padding: 2rem;
+    margin: 3vh auto;
+    border: 1px solid rgb(141, 141, 141);
+    border-radius: 8px;
+}
+
+.contact-label {
+    margin-bottom: 3vh;
+}
+
+input,
+textarea {
+    width: 100%;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid lightblue;
+}
+
+input:focus {
+    border: none;
+    border-bottom: 1px solid var(--bs-primary);
+}

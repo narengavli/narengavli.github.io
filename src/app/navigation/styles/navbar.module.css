@@ -1,0 +1,104 @@
+.header {
+    width: 100vw;
+    padding-top: 10px;
+    position: fixed;
+    top: 0;
+    z-index: 1001;
+}
+
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 8px;
+    background-color: rgba(245, 244, 244, 0.7);
+    backdrop-filter: blur(2px);
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    padding: 0px 10px;
+}
+
+.menuBox1,
+.menuBox2,
+.menuBox3 {
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.barButton {
+    display: none;
+    border: none;
+    background-color: transparent;
+}
+
+.navlink {
+    margin: 10px 10px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: var(--secondary-text);
+    cursor: pointer;
+    color: rgb(3, 3, 3);
+}
+
+.active {
+    color: var(--bs-primary);
+}
+
+.hiremeButton {
+    display: inline-block;
+    padding: 0.6rem 1.2rem;
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: var(--bs-primary);
+    border: 1px solid var(--bs-primary);
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.hiremeButton:hover {
+    background-color: #1769aa;
+    border-color: #1769aa;
+}
+
+
+@media screen and (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+    }
+
+    .menuBox1 {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .menuBox2,
+    .menuBox3 {
+        display: none;
+    }
+
+    .barButton {
+        display: block;
+    }
+
+    .hiremeButton {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .responsive .menuBox2 {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .responsive .menuBox3 {
+        display: flex;
+        justify-content: center;
+    }
+}
