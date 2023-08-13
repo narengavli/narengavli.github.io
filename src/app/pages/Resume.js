@@ -1,14 +1,15 @@
 import React from 'react'
 import { usePortfolioContext } from './../../context/DataContext'
 
+// import css file
 import './styles/about.css'
 
 // import components
 import Hobby from './../components/Hobby'
-import Title from '../components/Title'
-import Skill from '../components/Skill'
-import Academics from '../components/Academics'
-import Certificate from '../components/Certificate'
+import Title from './../components/Title'
+import Skill from './../components/Skill'
+import Academics from './../components/Academics'
+import Certificate from './../components/Certificate'
 
 const Resume = () => {
     const { pastlearning } = usePortfolioContext();

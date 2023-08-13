@@ -1,5 +1,7 @@
 import React from 'react'
 import { useForm } from '@formspree/react';
+
+// import components
 import Title from './../components/Title'
 import FormField from './../components/FormField';
 
